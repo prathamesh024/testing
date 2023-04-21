@@ -1,0 +1,7 @@
+{
+	  "DEPLOYPATH" : "/home/user1/deppath/",
+	  "task" :  [
+		"from_main",
+		"new"
+	  ]
+	}
